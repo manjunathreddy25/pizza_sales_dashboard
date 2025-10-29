@@ -7,6 +7,7 @@ This repository contains the work for a Pizza Sales Analysis project. The focus 
 - `PIZZA SALES SQL QUERIES.docx` — documented SQL queries used to transform and aggregate the data.
 - `Pizza_sales_dashboard.xlsx` — Excel workbook with pivot tables, charts and the interactive dashboard.
 - `Pizza Background.jpg` — background/visual asset used in the dashboard.
+- `Pizza_Sales_Analysis_Presentation.pptx` — presentation summarizing the analysis and dashboard; contains slides with visuals, key findings, and recommendations.
 
 ## What I did (Data Analyst summary)
 - Data preparation: cleaned and normalized the raw data (date parsing, deduplication, standardizing product names).
